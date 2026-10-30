@@ -25,6 +25,3 @@ python tetris.py
  * Стрелка Вниз — ускорить падение фигуры.
  * Пробел (Space) — повернуть фигуру.
  * Клавиша q — выйти из игры.
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=80&section=footer"/>
-</div>
