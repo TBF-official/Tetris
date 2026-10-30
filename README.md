@@ -12,7 +12,7 @@
 
 ```bash
 # 1. Клонируй репозиторий
-git clone [https://github.com/TBF-official/Tetris.git](https://github.com/TBF-official/Tetris.git)
+git clone https://github.com/TBF-official/Tetris.git
 
 # 2. Перейди в папку с игрой
 cd Tetris
